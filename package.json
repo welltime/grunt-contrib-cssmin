@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "clean-css": "~2.0.0",
+    "clean-css": "git://github.com/ipoddubny/clean-css.git#add-url-prefix",
     "grunt-lib-contrib": "~0.6.0"
   },
   "devDependencies": {
