@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "clean-css": "https://github.com/welltime/clean-css.git#add-url-prefix",
+    "clean-css": "git+ssh://git@github.com/welltime/clean-css.git#add-url-prefix",
     "grunt-lib-contrib": "~0.6.0"
   },
   "devDependencies": {
